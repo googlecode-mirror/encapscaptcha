@@ -1,0 +1,1 @@
+Spam bots are crazy and annoing these days, and there are a lot of CAPTCHA implementation for different platforms, but I think CAPTCHA implementation from Encaps.net is effective,simple and easy solution.
